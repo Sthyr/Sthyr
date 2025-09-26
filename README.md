@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Tomás 👋
 
+Hi! I'm a Data Analyst passionate about turning data into insights. Currently expanding my skills to become a Cloud Engineer, exploring cloud infrastructure and automation. Welcome to my GitHub!
 <!--
 **Sthyr/Sthyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
